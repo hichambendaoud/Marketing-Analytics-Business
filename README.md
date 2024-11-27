@@ -60,15 +60,15 @@ Overview
 
 ---
 Conversion Details
-![Dashboard Screenshot](images/Conversion.PNG)
+![Dashboard Screenshot](images/conversion_Details.PNG)
 
 ---
 Socail Media Details
-![Dashboard Screenshot](images/Socail_media.PNG)
+![Dashboard Screenshot](images/images/Social_Media.PNG)
 
 ---
 Custumer Review Details
-![Dashboard Screenshot](images/Custumer_review.PNG)
+![Dashboard Screenshot](images/images/images/Customer_Review.PNG)
 
 The dashboard provides an interactive view of key performance indicators, allowing users to explore data dynamically.
 For an interactive view of the dashboard, you can access the Power BI file here:
