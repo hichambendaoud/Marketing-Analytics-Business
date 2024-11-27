@@ -75,7 +75,7 @@ For an interactive view of the dashboard, you can access the Power BI file here:
 
 You can either **download** the Power BI report file or **view** it online.
 
-- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/BreadcrumbsMarketing-Analytics-Business/blob/main/MarketingAnalytics.pbix)
+- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/Marketing-Analytics-Business/blob/main/MarketingAnalytics.pbix)
 ---
 
 ## Conclusion
