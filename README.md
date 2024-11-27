@@ -71,7 +71,9 @@ Custumer Review Details
 ![Dashboard Screenshot](images/Custumer_review.PNG)
 
 The dashboard provides an interactive view of key performance indicators, allowing users to explore data dynamically.
+For an interactive view of the dashboard, you can access the Power BI file here:
 
+[Interactive Dashboard - Power BI](./MarketingAnalytics.pbix)
 ---
 
 ## Conclusion
