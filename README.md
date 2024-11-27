@@ -68,7 +68,7 @@ Socail Media Details
 
 ---
 Custumer Review Details
-![Dashboard Screenshot](images/images/Customer_Review.PNG)
+![Dashboard Screenshot](images/Customer_Review.PNG)
 
 The dashboard provides an interactive view of key performance indicators, allowing users to explore data dynamically.
 For an interactive view of the dashboard, you can access the Power BI file here:
