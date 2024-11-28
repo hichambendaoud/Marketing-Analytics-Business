@@ -49,7 +49,7 @@ For a detailed overview and presentation of this project, view the PowerPoint sl
 
 - **Cleaning Data with SQL for Insights** - Power BI, SQL & Python
 - **Advanced Sentiment Analysis with Python** - Power BI, SQL & Python
-- **Building an Interactive Dashboard in Power BI in Power BI - Power BI, SQL & Python
+- **Building an Interactive Dashboard in Power BI in Power BI** - Power BI, SQL & Python
 - **Presenting Data for Stakeholders** 
 
 ## Dashboard View
