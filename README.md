@@ -1,4 +1,4 @@
-# Project: Solving Business Problems with Power BI, SQL & Python
+ # Project: Solving Business Problems with Power BI, SQL & Python
 
 This project aims to tackle various business challenges by leveraging data analysis and visualization techniques with Power BI, SQL, and Python. The goal is to clean, analyze, and visualize data to derive actionable insights that can inform business decisions and drive performance improvements. The project covers several key areas, including data cleaning, sentiment analysis, interactive dashboard creation, and effective presentation of insights.
 
@@ -47,10 +47,10 @@ For a detailed overview and presentation of this project, view the PowerPoint sl
 ---
 ## Steps:
 
--**Cleaning Data with SQL for Insights** - Power BI, SQL & Python
--**Advanced Sentiment Analysis with Python** - Power BI, SQL & Python
--**Building an Interactive Dashboard in Power BI in Power BI - Power BI, SQL & Python
--**Presenting Data for Stakeholders** 
+- **Cleaning Data with SQL for Insights** - Power BI, SQL & Python
+- **Advanced Sentiment Analysis with Python** - Power BI, SQL & Python
+- **Building an Interactive Dashboard in Power BI in Power BI** - Power BI, SQL & Python
+- **Presenting Data for Stakeholders** 
 
 ## Dashboard View
 
@@ -60,22 +60,22 @@ Overview
 
 ---
 Conversion Details
-![Dashboard Screenshot](images/Conversion.PNG)
+![Dashboard Screenshot](images/conversion_Details.PNG)
 
 ---
 Socail Media Details
-![Dashboard Screenshot](images/Socail_media.PNG)
+![Dashboard Screenshot](images/Social_Media.PNG)
 
 ---
 Custumer Review Details
-![Dashboard Screenshot](images/Custumer_review.PNG)
+![Dashboard Screenshot](images/Customer_Review.PNG)
 
 The dashboard provides an interactive view of key performance indicators, allowing users to explore data dynamically.
 For an interactive view of the dashboard, you can access the Power BI file here:
 
 You can either **download** the Power BI report file or **view** it online.
 
-- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/BreadcrumbsMarketing-Analytics-Business/blob/main/MarketingAnalytics.pbix)
+- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/Marketing-Analytics-Business/blob/main/MarketingAnalytics.pbix)
 ---
 
 ## Conclusion
