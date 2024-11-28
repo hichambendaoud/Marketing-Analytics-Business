@@ -1,4 +1,4 @@
-# Project: Solving Business Problems with Power BI, SQL & Python
+ # Project: Solving Business Problems with Power BI, SQL & Python
 
 This project aims to tackle various business challenges by leveraging data analysis and visualization techniques with Power BI, SQL, and Python. The goal is to clean, analyze, and visualize data to derive actionable insights that can inform business decisions and drive performance improvements. The project covers several key areas, including data cleaning, sentiment analysis, interactive dashboard creation, and effective presentation of insights.
 
@@ -47,10 +47,10 @@ For a detailed overview and presentation of this project, view the PowerPoint sl
 ---
 ## Steps:
 
--**Cleaning Data with SQL for Insights** - Power BI, SQL & Python
--**Advanced Sentiment Analysis with Python** - Power BI, SQL & Python
--**Building an Interactive Dashboard in Power BI in Power BI - Power BI, SQL & Python
--**Presenting Data for Stakeholders** 
+- **Cleaning Data with SQL for Insights** - Power BI, SQL & Python
+- **Advanced Sentiment Analysis with Python** - Power BI, SQL & Python
+- **Building an Interactive Dashboard in Power BI in Power BI - Power BI, SQL & Python
+- **Presenting Data for Stakeholders** 
 
 ## Dashboard View
 
